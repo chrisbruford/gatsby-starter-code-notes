@@ -1,5 +1,5 @@
 ---
-title: Making a pretty changelog manually
+title: Git cheat sheet
 tags:
   - git
 emoji: 👨🏻‍💻
