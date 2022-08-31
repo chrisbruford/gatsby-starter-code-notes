@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: 'gatsby-starter-code-notes',
-    description: `A starter for gatsby-theme-code-notes`,
-    author: 'Zander',
+    title: "my-notes",
+    description: `Chris Bruford's notes on random things`,
+    author: "Chris Bruford",
   },
   plugins: [
     {
-      resolve: 'gatsby-theme-code-notes',
+      resolve: "gatsby-theme-code-notes",
       options: {
-        contentPath: 'notes',
-        basePath: '/',
+        contentPath: "notes",
+        basePath: "/",
         showThemeInfo: true,
         showDescriptionInSidebar: true,
         showDate: true,
@@ -25,4 +25,4 @@ module.exports = {
       },
     },
   ],
-}
+};
