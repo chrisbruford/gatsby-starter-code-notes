@@ -4,7 +4,7 @@ tags:
   - git
 emoji: 👨🏻‍💻
 modified: 2022-31-08
-link: chrisbruford.com
+link: https://www.chrisbruford.com
 ---
 
 There are some git commands I always forget because of how infrequently I use them. So here they are as I remember them:
